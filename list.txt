@@ -1,0 +1,9 @@
+USO:
+NB
+LW
+MC
+LF
+ZM
+MW
+AW
+JE
